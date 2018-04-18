@@ -12,7 +12,7 @@ Sinta-se a vontade para ousar no projeto, abaixo segue um exemplo, porém não s
 
 ### Demo
 
-<video source="https://github.com/carteiraonline/front-end-test/blob/master/media/appvideo.mp4"></video>
+<video src="https://github.com/carteiraonline/front-end-test/blob/master/media/appvideo.mp4"></video>
 
 
 ## Entrega
