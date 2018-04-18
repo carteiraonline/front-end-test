@@ -11,9 +11,7 @@ nenhum style guide ( pois um dos objetivos do teste é verificar seus conhecimen
 Sinta-se a vontade para ousar no projeto, abaixo segue um exemplo, porém não se preenda a ele. 
 
 ### Demo
-
-<video src="https://github.com/carteiraonline/front-end-test/blob/master/media/appvideo.mp4"></video>
-
+<img src="https://github.com/carteiraonline/front-end-test/blob/master/images/app-teste.gif" />
 
 ## Entrega
 
